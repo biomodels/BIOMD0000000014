@@ -1,3 +1,21 @@
+# BIOMD0000000014: MAPK_in_Scaffold
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000014.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000014.git@20140916`
+
+
+# Model Notes
 
 
 # MAPK cascade on a scaffold
@@ -726,4 +744,5 @@ Mac OS X (June 4, 2002), December 4, 2002 15:06:10, using
 (PowerMac,PowerPC,Mac OS X,MacOSX,Darwin)
 
 author=B.E.Shapiro
+
 
